@@ -1,0 +1,3 @@
+def calcular_media(x, y, z, w):
+    media = x + y + z + w
+    return media
